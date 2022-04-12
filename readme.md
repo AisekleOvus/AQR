@@ -1,3 +1,3 @@
 # AQR
-## Opera Addon - Address to QR
-Converts address line to QR-code to continue reading with mobile devices
+## Opera Addon - URL to QR
+Converts URL to QR-code to continue reading on mobile devices
